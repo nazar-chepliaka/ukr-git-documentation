@@ -1,5 +1,8 @@
 # git init
 
+Створення порожнього Git-репозиторію (приклад з поясненнями) або повторна ініціалізація існуючого
+
+
 ```
 git init [-q | --quiet] [--bare] [--template=<template_directory>]
 	  [--separate-git-dir <git dir>] [--object-format=<format>]
@@ -8,15 +11,8 @@ git init [-q | --quiet] [--bare] [--template=<template_directory>]
 ```
 
 ## Опції
-**-q** або **--quiet**
- 
-: Only print error and warning messages; all other output will be suppressed.
 
-| Syntax | Description |
+| Приклади команди з використанням опцій | Опис особливостей результату |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
-
-Second Term
-: This is one definition of the second term.
-: This is another definition of the second term.
+| **git init -q**<br>або<br>**git init --quiet**  | Команда з відключеним виводом повідомлень які не містять інформацію про помилку або не є попередженнями |
+| **git init --bare** | Команда створення **чистого** репозиторію (приклад з поясненнями) |
