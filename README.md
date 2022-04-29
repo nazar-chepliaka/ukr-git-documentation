@@ -3,18 +3,18 @@
 <?php
 
 class NullableMessage {
-    private $o;
+    private $output_str;
 
-    public function __construct($i) {
-        $this->o = '';
+    public function __construct($input_str) {
+        $this->output_str = '';
     }
 
     public function __toString() {
-        return $this->o;
+        return $this->output_str;
     }
 
-    public static function getResponse($i) {
-        return new self($i);
+    public static function getResponse($input_str) {
+        return new self($input_str);
     }
 }
 
