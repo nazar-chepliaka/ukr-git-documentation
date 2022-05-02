@@ -2,7 +2,7 @@
 ```
 <?php
 
-class NullableMessagePoolObject {
+class NullableMessagePseudoPoolObject {
     private $output_str;
     private $container;
     private $objectCreator;
