@@ -11,7 +11,7 @@ class NullableMessagePseudoPoolObject {
         $this->output_str = '';
     }
     
-    public __get($prop_name) {
+    public function __get($prop_name) {
         if($prop_name == 'count') {
             return 0;
         } else {
