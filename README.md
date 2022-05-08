@@ -43,6 +43,8 @@ class NullableMessagePseudoPoolObject {
 > [^1]: База знань — Вікіпедія. URL: https://uk.wikipedia.org/wiki/База_знань (дата звернення: 01.05.2022).
 > [^2]: Web Platform Design Principles. URL: https://www.w3.org/TR/2021/NOTE-design-principles-20211216/ (дата звернення: 01.05.2022).
 
-git init
+Гриф: [Чернетка](https://uk.wikipedia.org/wiki/Чернетка).
+
+- [ ] git init
 * Створення проекту
   * [git init](manual/DESC-GIT-INIT.md)
