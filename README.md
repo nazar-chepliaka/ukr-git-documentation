@@ -32,7 +32,6 @@ class NullableMessagePseudoPoolObject {
 // https://youtu.be/cyFM2emjbQ8
 // https://youtu.be/rIaaH87z1-g
 // https://www.web3d.org/x3d/content/examples/Basic/Shaders/FlutterIndex.html
-// https://youtu.be/_ptWoz4Igfw
 // https://uk.wikipedia.org/wiki/Китайська_кімната
 
 ?>
