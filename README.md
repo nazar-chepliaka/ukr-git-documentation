@@ -28,7 +28,7 @@ class NullableMessagePseudoPoolObject {
     }
 }
 
-// inspired by "Електричне коло може конвертовувати енергію, але потребує підзарядки." (https://en.wikipedia.org/wiki/Organic_unity)
+// inspired by "Електричне коло може конвертувати енергію, але потребує підзарядки." (https://en.wikipedia.org/wiki/Organic_unity)
 // + https://youtu.be/cyFM2emjbQ8
 // + https://youtu.be/rIaaH87z1-g
 // + https://www.web3d.org/x3d/content/examples/Basic/Shaders/FlutterIndex.html
