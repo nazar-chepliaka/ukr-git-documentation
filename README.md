@@ -34,7 +34,7 @@ class NullableMessagePseudoPoolObject {
 // + https://www.web3d.org/x3d/content/examples/Basic/Shaders/FlutterIndex.html (недотягнутий проєкційний прікол)
 // + https://uk.wikipedia.org/wiki/Китайська_кімната
 // + https://uk.wikipedia.org/wiki/Синергія
-// + https://uk.wikipedia.org/wiki/Мозаїка (Cauliflower mosaic virus (CaMV))
+// + https://uk.wikipedia.org/wiki/Мозаїка (Cauliflower mosaic virus)
 
 ?>
 ```
